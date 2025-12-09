@@ -1,5 +1,4 @@
 index:eng 
-Here’s a clear translation of the repository content you shared from Chinese to English:
 
 ---
 
