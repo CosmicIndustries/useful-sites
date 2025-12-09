@@ -1,3 +1,171 @@
+index:eng 
+Here’s a clear translation of the repository content you shared from Chinese to English:
+
+---
+
+# cdoco / useful-sites
+
+**License:** MIT License
+
+**Description:** A collection of websites curated by a PHP developer.
+
+## Table of Contents
+
+### Search
+
+* **ElasticSearch** – A search server based on Lucene
+* **Solr** – Standalone enterprise search server with Web-service-like API
+* **Lucene** – Open-source full-text search engine library
+* **Sphinx** – SQL-based full-text search engine
+* *Elasticsearch: The Definitive Guide*
+
+### Tools
+
+**Online Generators**
+
+* Online tool collection – integrated useful online tools
+* Bejson – online JSON formatter
+* QR Code generator (草料二维码)
+* Online encoding/decoding tools (e.g., URL decode)
+
+**Packet Capture Tools**
+
+* Mitmproxy
+
+  * How Mitmproxy works
+  * Step-by-step HTTPS packet capture tutorial
+* Wireshark
+
+### Algorithms
+
+* Algorithm crash courses
+* Common algorithm derivations
+* Ten big data interview questions and methods
+* Inverted index basics for search engines
+* Short URL system design
+* Ten programming algorithms to level up
+* Animated pathfinding algorithms
+* Fun string-reversal algorithms
+* Five-minute guide to consistent hashing
+* KMP algorithm tutorials
+
+### Architecture
+
+* Evolution of large website architectures
+* Overview of large-scale website technologies
+* Technical architectures of Alibaba, Ant Credit Pay, Ju Hua Suan, Taobao, Gaode, Tencent, JD, Weibo, Dangdang, LinkedIn, Zhihu, Douban, Xiaomi, Haier, Vipshop, Mogujie, Maibaobao, etc.
+* High-availability and distributed system strategies (multi-site active-active setups, peak load handling, etc.)
+
+### Email
+
+* Gmail, Hotmail, 163 NetEase mail, QQ mail
+
+### PHP
+
+**Official Resources**
+
+* PHP official website
+* PECL – PHP extensions
+* Windows PHP download site
+* PHP bug list
+
+**Frameworks**
+
+* Yaf, Slim, Swoole, Aura PHP, CakePHP, Laravel 5, Nette, Phalcon, PPI Framework 2, Symfony 2, Yii2, Zend Framework 2, Radar, Ice
+
+**Extension Development**
+
+* Deep understanding of PHP internals (TIPI project)
+* PHP-CPP (C++ library for writing PHP extensions)
+* Zephir (compile PHP-like code into extensions)
+* Tutorials on writing PHP extensions in C/C++
+* Windows VS2010 compilation of PHP 5.4
+
+**PHP Articles**
+
+* LNMP one-click install
+* CGI, FastCGI, PHP-CGI vs PHP-FPM
+* PHP developer skill growth plans
+* Yii2 deep dive
+* PHP-FPM signals and operation
+* cURL scripting and IP spoofing in PHP
+* PHP design patterns (factory, command-line mode, etc.)
+* Large log file read/write, chatroom architecture
+* PHP7 internals, FPM running modes
+
+### Frontend
+
+* Web development communities and resources
+* Vue.js tutorials
+* JavaScript and ECMAScript 6 references
+* HTML5 China portal
+* AJAX techniques and jQuery examples
+
+### Blogs
+
+* Key PHP developers and tech writers: Hui Xinchen, Huoding, Cun Mou, Ruan Yifeng, Liao Xuefeng, Han Tianfeng, Black Night Passer, Yunfeng
+
+### Git
+
+* Git official website
+* Git tutorials (Liao Xuefeng)
+* Pro Git (Chinese version)
+
+### Android
+
+* Android official site
+* Android Studio tutorials
+* Android learning resources
+
+### Memcache
+
+* Memcached official site
+* Memory allocation, mutex design, consistent hashing, installation, configuration
+
+### Redis
+
+* Redis official site
+* Memory eviction and persistence mechanisms
+
+### Zsh
+
+* zsh shell and oh-my-zsh framework
+
+### Linux
+
+**Distributions**
+
+* Linux kernel source
+* elementary OS, Fedora, Linux Mint, Ubuntu, CentOS, Debian, Mageia, Arch Linux, Kali
+
+**Articles**
+
+* Common Linux commands
+* Linux system boot process
+* Monitoring, TCP dump, mounting Windows directories, ACLs, FTP setup, iptables, git installation, performance tuning, etc.
+
+### Docker
+
+* Docker official website
+* Common commands and tutorials
+* Kubernetes-based Docker cluster management
+
+### Vagrant
+
+* Vagrant official website
+* Puphpet – Vagrant configuration generator
+* Using Vagrant on Windows for development
+
+### VPN
+
+* GreenVPN, SS-Link, Shadowsocks tutorials
+
+**License:** MIT License
+
+**Contributors:** cdoco (ZiHang Gao), MrPack (Maoer)
+**GitHub Stats:** 47 stars, 3 watchers, 22 forks
+
+---
 <div align="center"><img src="http://openlogos.org/logos/mr-jumbo.jpg" /></div>
 
 ## 目录
